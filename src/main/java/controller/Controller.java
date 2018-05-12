@@ -74,9 +74,6 @@ public class Controller implements Initializable {
         stage.show();
     }
 
-    @FXML
-    private Label msLB;
-
     public Parent createSwapperinoContent(Swapperino g) {
         Pane root = new Pane();
         root.setPrefSize(400, 400);
