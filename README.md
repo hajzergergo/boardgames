@@ -1,6 +1,4 @@
 # BoardGames
-
-programming technologies
 <h4>Programming Technologies homework.</h4>
 <br>
 <br>
